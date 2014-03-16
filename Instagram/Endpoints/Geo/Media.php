@@ -5,7 +5,7 @@
  * 
  * Get recent media from a geography subscription that you created
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

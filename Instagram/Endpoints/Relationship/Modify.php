@@ -6,7 +6,7 @@
  * Modify the relationship between the current user
  * and the target user.
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

@@ -5,7 +5,7 @@
  * 
  * Get information about a relationship to another user.
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

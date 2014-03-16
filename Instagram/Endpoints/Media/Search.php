@@ -5,7 +5,7 @@
  * 
  * Search for media in a given area. 
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

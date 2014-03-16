@@ -5,7 +5,7 @@
  * 
  * See the authenticated user's feed.
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

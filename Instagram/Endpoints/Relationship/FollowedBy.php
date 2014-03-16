@@ -5,7 +5,7 @@
  * 
  * Get the list of users this user is followed by.
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

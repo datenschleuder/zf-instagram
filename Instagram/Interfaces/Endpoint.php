@@ -3,7 +3,7 @@
 /**
  * ZF-Dropbox - Interface for ZendX_Dropbox_Endpoints_*
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>

@@ -6,7 +6,7 @@
  * Get a list of recent media objects from 
  * a given location.
  *
- * http://zfmodules.mypasswordsafe.net
+ * https://github.com/datenschleuder/zf-instagram
  *
  *
  * @author     Jürgen Meier <support@mypasswordsafe.net>
